@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 400px;
+    height: 550px;
+   /*padding: 10px;*/
+}
+.product{
+    width: 376px;
+    height: 526px;
+    border: 2px solid #5a5a5a;
+    margin: 10px;
+}
+.name-product {
+    margin:10px 25px;
+}
+.name-product h1{
+    font:22px Tahoma;
+    text-align: center;
+}
+.product-picture{
+    text-align: center;
+    margin-top: 30px;
+}
+.payments-btn
+{
+     font: 22px Tahoma;
+    color: #fff;
+    /* padding: 5px 40px; */
+    background: #8bc144;
+    width: 190px;
+    height: 30px;
+    text-align: center;
+}
+.price{
+    margin-top: 15px;
+    text-align: center;
+    font-size:31px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.buy{
+    text-align: center;
+    margin-top: 15px;
+}
+.btn-buy{
+    padding: 10px 60px 10px 70px;
+    background: #ff0000;
+    border: none;
+    border-bottom: 2px solid #850000;
+    cursor: pointer;
+    font-family: Tahoma;
+    font-size: 28px;
+    color:#fff;
+}

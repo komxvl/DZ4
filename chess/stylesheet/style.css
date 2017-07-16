@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.row > .chess , .row > .cherry{
+    width: 200px;
+    height:200px;
+    float:left;
+}
+.cherry{
+    background: #850000;
+}
+.chess img{
+    height: 200px;
+}
